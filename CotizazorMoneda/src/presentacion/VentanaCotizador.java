@@ -140,6 +140,7 @@ public class VentanaCotizador extends JFrame {
             txtValorDolares.setEditable(true);
             txtValorPesos.setEditable(true);
             txtValorCotizacion.setEditable(true);
+            txtValorCotizacion.requestFocus();
         }
         
     }
